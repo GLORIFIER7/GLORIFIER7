@@ -76,3 +76,7 @@ I'm building **GLORIFIER** as infrastructure for a governed machine-to-machine e
 ---
 
 **GLORIFIER — intelligence orchestration with governed execution and truthful evidence.**
+
+### ❤️ Support my work
+
+If you find my open-source work useful, you can support its continued development through [GitHub Sponsors](https://github.com/sponsors/GLORIFIER7).
