@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://ipfs.io/ipfs/bafkreiakbvnq4sc5xvff5vzyhj572kemre5sfwedi2almqkhlqz53hefcm" alt="GLORIFIER SERVICES official circular logo — EST 2022" width="220" />
+<img src="https://ipfs.io/ipfs/QmVHCtutYvhWxAsqjTCzB5ySjqA1yenAyhDAWxE2Wa91Sv" alt="GLORIFIER SERVICES official circular logo — EST 2022" width="220" />
 
 # GLORIFIER
 
