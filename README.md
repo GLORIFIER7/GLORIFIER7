@@ -65,6 +65,7 @@ Settlement Evidence / Economic Ledger
 ## Projects
 
 - **[GLORIFIER](https://github.com/GLORIFIER7/GLORIFIER)** — AI orchestration, governance, evidence, and economic infrastructure.
+- **[Owner-delegated maintenance milestone](https://github.com/GLORIFIER7/GLORIFIER/blob/main/docs/ops/merge-delegation-milestone-2026-11-08.md)** — routine maintenance authority with preserved human governance and review gates.
 - **G-AI-WEB** — AI-native discovery and interoperability concepts for agents and capabilities.
 
 ## Find me online
