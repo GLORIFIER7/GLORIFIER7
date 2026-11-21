@@ -74,7 +74,7 @@ Settlement Evidence / Economic Ledger
 | Platform | Link |
 |---|---|
 | Gravatar | [gravatar.com/glorifier7](https://gravatar.com/glorifier7) |
-| WordPress | [glorifierclub.wordpress.com](https://glorifierclub.wordpress.com) |
+| WordPress | [glorifier7.wordpress.com](https://glorifier7.wordpress.com) |
 | X | [@glorifier777](https://x.com/glorifier777) |
 | LinkedIn | [linkedin.com/in/glorifier](https://www.linkedin.com/in/glorifier) |
 | Tumblr | [glorifier7.tumblr.com](https://glorifier7.tumblr.com) |
